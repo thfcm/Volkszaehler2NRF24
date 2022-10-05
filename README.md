@@ -77,6 +77,5 @@ For that project we are using the following libraries:
 
 <img src="https://user-images.githubusercontent.com/112399896/194141042-51dd6197-973d-41ee-98db-be3ffe375d6b.jpg" data-canonical-src="https://user-images.githubusercontent.com/112399896/194141042-51dd6197-973d-41ee-98db-be3ffe375d6b.jpg" height="200" />
 
-<img src="https://user-images.githubusercontent.com/112399896/194152423-2eb40c83-803f-487e-8605-d939af87bcd6.jpg" data-canonical-src="https://user-images.githubusercontent.com/112399896/194152423-2eb40c83-803f-487e-8605-d939af87bcd6.jpg" height="200" />
+<img src="https://user-images.githubusercontent.com/112399896/194152631-3a7ab690-fb68-4f68-a7ad-68581fcbfd97.jpg" data-canonical-src="https://user-images.githubusercontent.com/112399896/194152631-3a7ab690-fb68-4f68-a7ad-68581fcbfd97.jpg" height="200" />
 
-![grafana_example](https://user-images.githubusercontent.com/112399896/194152631-3a7ab690-fb68-4f68-a7ad-68581fcbfd97.jpg)
