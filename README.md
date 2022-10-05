@@ -10,6 +10,13 @@ The Receiver is in my cellar room next to the room with the power meters where m
 The far-end of this power-meter reader is directly connected to the home server via USB and sends the received data via a serial interface, so you can access it using Node-Red or anything else.
 
 
+## Content
+This project includes 
+
+*  - the IR Reader/Transmitter that you want to put on your energy-meter
+*  - the Receiver that receives the information and sends it to a Serial Port using USB
+*  - an eMH energy-meter simulator so you can test your hardware without standing next to your energy-meter with a laptop and strange devices in your hand that may  make neighbors asking strange questions
+
 ## Schematic:
 
 ![image](https://user-images.githubusercontent.com/112399896/193898906-ffe60fd0-3d1a-467f-92f6-e11d3d0ee964.png)
