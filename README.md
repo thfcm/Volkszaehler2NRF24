@@ -15,7 +15,7 @@ This project includes
 
 * [IRReader_Transmitter](https://github.com/thfcm/Volkszaehler2NRF24/tree/main/IRReader_Transmitter) - the IR Reader/Transmitter that you want to put on your energy-meter
 * [Receiver](https://github.com/thfcm/Volkszaehler2NRF24/tree/main/Receiver) - the Receiver that receives the information and sends it to a Serial Port using USB
-* [eMH Simulator](https://github.com/thfcm/Volkszaehler2NRF24/tree/main/eMH_Simulator) - an eMH energy-meter simulator so you can test your hardware without standing next to your energy-meter with a laptop and strange devices in your hand that may  make neighbors asking strange questions
+* [eMH Simulator](https://github.com/thfcm/Volkszaehler2NRF24/tree/main/eMH%20Simulator) - an eMH energy-meter simulator so you can test your hardware without standing next to your energy-meter with a laptop and strange devices in your hand that may  make neighbors asking strange questions
 
 ## Schematic:
 
