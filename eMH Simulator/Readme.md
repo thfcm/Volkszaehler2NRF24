@@ -7,6 +7,12 @@ This sketch uses a binary file from the [libsml library from https://github.com/
 Note, that at least the Address of the current power mightt differ from the Address your energy-meter might use (I had that in my case).
 <br/>                        
 I used a Teensy 3.1 Board that I had laying around but any other board should work fine, too.
+In case you are going to use another board, you might have to replace Hardware-Serial 1 with a Software-Serial.
+This is, because the Teensy is cabable of more than one Serial Interface that is mapped in hardware.
+In case the board you are using does not have more than one Hardware Serial interface, you can use SoftwareSerial instead.
+
+(I know this is confusing and I will change code to use SoftwareSerial in the future so you do not have to change this point in code for yourself)
+
 <br/>                                 
 Simply solder an IR TX Diode between 3.3V and your TX Pin. Depending on the Diode you are using, you should install the matching current limiting resistor.
 
