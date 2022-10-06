@@ -3,8 +3,8 @@
 This little piece of code will simulate an eMH energy-meter and will send simulated data using an IR Diode.
 This way you can test your Volkszaehler2NRF24 on your desk until everything works.
 <br/>
-This sketch uses a binary file from the [libsml library from https://github.com/olliiiver/sml_parser](https://github.com/olliiiver/sml_parser) thata contains a telegram as an eMH meter will send out.
-Note, that at least the Address of the current power mightt differ from the Address your energy-meter might use (I had that in my case).
+This sketch uses a binary file from the [libsml library from https://github.com/olliiiver/sml_parser](https://github.com/olliiiver/sml_parser) that contains a telegram similar to an eMH meter will send out.
+Note, that at least the Address of the *current power* might differ from the Address your energy-meter might use (I had that in my case).
 <br/>                        
 I used a Teensy 3.1 Board that I had laying around but any other board should work fine, too.
 In case you are going to use another board, you might have to replace Hardware-Serial 1 with a Software-Serial.
