@@ -16,5 +16,5 @@ Example:<br/>
 <img src="https://user-images.githubusercontent.com/112399896/194393036-e4436854-5b4e-41f3-9c04-d4acf8031f73.jpg" data-canonical-src="https://user-images.githubusercontent.com/112399896/194393036-e4436854-5b4e-41f3-9c04-d4acf8031f73.jpg" height="200" />
 <br/><br/>
 You can check if the Simulator is sending data using your Smartphones Camera. <br/>
-Most of them are capable of "seeing" infrared light (which loks like a purple pale light):<br/>
+Most of them are capable of "seeing" infrared light (which looks like a purple pale light):<br/>
 <img src="https://user-images.githubusercontent.com/112399896/194393226-17a700dd-0683-4975-bb78-633fa77d8019.jpg" data-canonical-src="https://user-images.githubusercontent.com/112399896/194393226-17a700dd-0683-4975-bb78-633fa77d8019.jpg" height="200" />
