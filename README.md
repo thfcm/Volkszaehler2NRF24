@@ -54,7 +54,7 @@ I also removed the power-LED as well as the integraded power regulator.
 To save even more power, I have the Atmega328p running at 4MHz and using 3.3V. The less volts, the less power it is consuming. You can also run it with 3.0 Volts or even less to save even more power. 
 I disabled all the internal peripheral devices the Atmega has and that we do not need (like ADC, Brown.out.Detection and so on).
 <br/><br/>
-I got that information from [http://www.gammon.com.au/power](http://www.gammon.com.au/power) so all the credits for that goes there.
+I got that information from http://www.gammon.com.au/power so all the credits for that goes there.
 <br/><br/>
 In addition to that, the nRF24L01+ is set to a sleep mode as long as we don't have anything to send.
 Also the Atmega328p is sleeping for most of its time. At the moment, it will sleep for 16 Seconds, wakes up, waits for some Serial Data from the IR port and extracts the data we want. It then sends those 8 Bytes and goes back to sleep again immediantly.
