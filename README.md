@@ -79,3 +79,9 @@ For that project we are using the following libraries:
 
 <img src="https://user-images.githubusercontent.com/112399896/194152631-3a7ab690-fb68-4f68-a7ad-68581fcbfd97.jpg" data-canonical-src="https://user-images.githubusercontent.com/112399896/194152631-3a7ab690-fb68-4f68-a7ad-68581fcbfd97.jpg" height="200" />
 
+
+## Discord Server
+I have opened a Discord Server so you can ask questions and exchange information.
+Please note that I have a real live, too. So I might not be able to answear within minutes or at all.
+
+https://discord.gg/fCE7YD76QE
