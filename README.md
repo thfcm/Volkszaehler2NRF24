@@ -63,7 +63,7 @@ Also the Atmega328p is sleeping for most of its time. At the moment, it will sle
 
 ## Range
 
-You might want to know the Range of that system. But range depends on so many factors, you can not really tell anything. You should test it under the conditions you have.
+You might want to know the range of that system. But range depends on so many factors, you can not really tell anything. You should test it under the conditions you have.
 To extend the range a little bot, you can raise the transmit power, add some shielding to the receiver to block noise of have a look at [https://www.instructables.com/Enhanced-NRF24L01/](https://www.instructables.com/Enhanced-NRF24L01/).
 
 
