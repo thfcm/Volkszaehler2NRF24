@@ -1,5 +1,6 @@
 # Volkszaehler2NRF24
-A Battery powered Electric-Meter reader that sends data using nRF24 wireless.
+A Battery powered Electric-Meter reader that sends data using nRF24 wireless.<br\n>
+This is based on the works of https://www.volkszaehler.org
 <br/>
 <br/>
 I started this project because I want to measure my power consumption during the day and see how my tiny 300pW Solar Power Plant fits in.
